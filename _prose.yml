@@ -19,18 +19,38 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
     jamstalldhet:
       - name: "layout"
         field:
           element: "hidden"
           value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
     migration:
       - name: "layout"
         field:
           element: "hidden"
           value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
     miljo:
       - name: "layout"
         field:
           element: "hidden"
           value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
