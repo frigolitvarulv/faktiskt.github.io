@@ -14,7 +14,7 @@ prose:
     - /migration/index.md
     - /miljo/index.md
   metadata:
-    eknomi:
+    ekonomi:
       - name: "layout"
         field:
           element: "hidden"
