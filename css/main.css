@@ -173,15 +173,13 @@ a:visited { color: #205caa; }
   list-style: none;
 }
 .index li {
-  background-color: #333;
   padding: 4px 4px;
   margin-left: 0;
 }
 .index li a {
   font-style: italic;
-  color: #ccc;
+  color: #333;
 }
-
 
 /* Post styles */
 /* ----------------------------------------------------------*/
