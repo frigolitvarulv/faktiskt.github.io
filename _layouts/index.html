@@ -1,0 +1,20 @@
+---
+layout: page
+---
+<div class="index">
+
+  {{ content }}
+
+  {% capture url_prefix %}{{ page.url | remove_first:'index.html' }}{% endcapture %}
+  {% capture key_prefix %}:{{url_prefix}}{% endcapture %}
+  <ul class="pages">
+  {% for subpage in site.pages %}
+    {% capture subpage_key %}:{{ subpage.url }}{% endcapture %}
+    {% if subpage_key contains key_prefix and subpage.url != page.url %}
+      <li>
+        <a href="{{ subpage.url | remove_first:'index.html' }}">{{ subpage.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
