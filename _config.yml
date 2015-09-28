@@ -17,15 +17,10 @@ prose:
   ignore:
     - .gitignore
     - _config.yml
-    - _prose.yml
     - index.md
     - /_layouts
     - /_includes
     - /css/
-    - /ekonomi/index.md
-    - /jamstalldhet/index.md
-    - /migration/index.md
-    - /miljo/index.md
   metadata:
     ekonomi:
       - name: "layout"
