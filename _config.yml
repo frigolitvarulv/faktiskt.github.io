@@ -10,3 +10,60 @@ github_username:  faktiskt
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+prose:
+  siteurl: 'http://faktiskt.github.io/'
+  media: 'images'
+  ignore:
+    - .gitignore
+    - _config.yml
+    - _prose.yml
+    - index.md
+    - /_layouts
+    - /_includes
+    - /css/
+    - /ekonomi/index.md
+    - /jamstalldhet/index.md
+    - /migration/index.md
+    - /miljo/index.md
+  metadata:
+    ekonomi:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
+    jamstalldhet:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
+    migration:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
+    miljo:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
