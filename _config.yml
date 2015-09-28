@@ -30,8 +30,12 @@ prose:
     ekonomi:
       - name: "layout"
         field:
-          element: "hidden"
-          value: "post"
+          element: "select"
+          options:
+            - name: "Post"
+              value: "post"
+            - name: "Index"
+              value: "index"
       - name: "title"
         field:
           element: "text"
@@ -40,8 +44,12 @@ prose:
     jamstalldhet:
       - name: "layout"
         field:
-          element: "hidden"
-          value: "post"
+          element: "select"
+          options:
+            - name: "Post"
+              value: "post"
+            - name: "Index"
+              value: "index"
       - name: "title"
         field:
           element: "text"
@@ -50,8 +58,12 @@ prose:
     migration:
       - name: "layout"
         field:
-          element: "hidden"
-          value: "post"
+          element: "select"
+          options:
+            - name: "Post"
+              value: "post"
+            - name: "Index"
+              value: "index"
       - name: "title"
         field:
           element: "text"
@@ -60,8 +72,12 @@ prose:
     miljo:
       - name: "layout"
         field:
-          element: "hidden"
-          value: "post"
+          element: "select"
+          options:
+            - name: "Post"
+              value: "post"
+            - name: "Index"
+              value: "index"
       - name: "title"
         field:
           element: "text"
