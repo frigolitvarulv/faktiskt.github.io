@@ -1,0 +1,34 @@
+prose:
+  siteurl: 'http://faktiskt.github.io/'
+  media: 'images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css/
+    - /ekonomi/index.md
+    - /jamstalldhet/index.md
+    - /migration/index.md
+    - /miljo/index.md
+  metadata:
+    eknomi:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+    jamstalldhet:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+    migration:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+    miljo:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
