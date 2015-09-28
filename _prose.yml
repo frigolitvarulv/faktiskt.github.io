@@ -2,8 +2,10 @@ prose:
   siteurl: 'http://faktiskt.github.io/'
   media: 'images'
   ignore:
-    - index.md
+    - .gitignore
     - _config.yml
+    - _prose.yml
+    - index.md
     - /_layouts
     - /_includes
     - /css/
