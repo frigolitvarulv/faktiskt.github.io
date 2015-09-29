@@ -16,7 +16,6 @@ prose:
   ignore:
     - .gitignore
     - _config.yml
-    - index.md
     - /_layouts
     - /_includes
     - /links.jsonp
