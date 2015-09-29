@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Foo 3
 ---
+
 
 
 ## A New Post
