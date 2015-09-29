@@ -19,6 +19,7 @@ prose:
     - index.md
     - /_layouts
     - /_includes
+    - /links.jsonp
     - /css/
   metadata:
     ekonomi:
