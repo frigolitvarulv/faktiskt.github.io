@@ -1,8 +1,9 @@
 ---
 layout: index
-published: false
+published: true
 title: index
 ---
+
 
 ## A New Post
 
