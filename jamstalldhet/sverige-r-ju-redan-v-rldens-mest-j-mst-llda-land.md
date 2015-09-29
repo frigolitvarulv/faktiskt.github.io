@@ -1,6 +1,6 @@
 ---
 layout: postindex
-published: false
+published: true
 title: "\"Sverige är ju redan världens mest jämställda land\""
 ---
 
