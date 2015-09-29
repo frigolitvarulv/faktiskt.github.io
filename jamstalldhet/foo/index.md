@@ -1,8 +1,9 @@
 ---
-layout: index
+layout: postindex
 published: true
 title: index
 ---
+
 
 
 ## A New Post
