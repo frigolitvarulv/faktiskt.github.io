@@ -5,6 +5,7 @@ title: "\"Sverige är ju redan världens mest jämställda land\""
 ---
 
 
+
 ## Nej, vi är faktiskt inte det längre. Idag ligger vi på (fjärde plats) efter Island, Norge och Finland.
 Men skit i prispallen - det intressanta är väl att se HUR jämställt det är? Här följer ett litet smorgosboard som gör gällande att det fortfarande finns **EN DEL** att slipa på.
 
