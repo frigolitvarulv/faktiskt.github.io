@@ -1,8 +1,9 @@
 ---
 layout: postindex
-published: false
+published: true
 title: "Kvotering: \"Den som är mest kompetent ska väl få jobbet!?\""
 ---
+
 
 Det låter väl ganska rimligt? Det verkar dock inte funkar så. 
 ## Alls. 
