@@ -1,8 +1,9 @@
 ---
 layout: postindex
-published: false
+published: true
 title: "\"Ingen tjej jag känner känner sig diskriminerad\""
 ---
+
 
 ## Fa-an va nice! 
 
