@@ -1,5 +1,5 @@
 ---
-layout: postindex
+layout: post
 published: true
 title: "Kvotering: \"Den som är mest kompetent ska väl få jobbet!?\""
 ---
