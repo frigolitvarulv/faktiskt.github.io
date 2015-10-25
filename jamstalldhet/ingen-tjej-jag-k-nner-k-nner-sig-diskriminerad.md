@@ -12,4 +12,8 @@ title: "\"Ingen tjej jag känner känner sig diskriminerad\""
 Är du säker på att du har frågat om allt? Om du är osäker följer här några fakta som som verkar tydligt kopplade till diskriminering. Och som sagt - för varje kvinna som inte känner sig diskriminerad gör vi såklart vågen! Men faktan nedan får fan ingen våg.
 
 - [Trygghet utomhus](/jamstalldhet/ingen-tjej-jag-k-nner-k-nner-sig-diskriminerad/trygghet-utomhus/)
-- SEXUELLA TRAKASSERIER PÅ JOBBET
+- Sexuella trakasserier på jobbet
+- Psykisk ohälsa
+- Sexuellt våld
+- Jäm(o)likheter i vården
+- Obetalt arbete
