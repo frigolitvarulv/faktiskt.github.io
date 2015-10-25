@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Jäm(o)likheter i vården
 ---
+
 
 Socialstyrelsen (http://www.socialstyrelsen.se/Lists/artikelkatalog/Attachments/18546/2011-12-30.pdf) kollade lite på det här med vården. Och fann bland annat att:
 
