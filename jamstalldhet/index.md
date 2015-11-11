@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: index
 published: true
 title: Jämställdhet
 ---
