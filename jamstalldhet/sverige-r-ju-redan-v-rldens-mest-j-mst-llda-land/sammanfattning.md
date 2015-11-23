@@ -4,6 +4,5 @@ published: false
 title: Sammanfattning
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Kvinnor har alltså lägre löner och lägre pensioner, de når väldigt sällan höga positioner i näringslivet, utsätts i väldigt mycket större utsträckning för sexuellt våld och de löper alltså dubbelt så hög risk för att bli sjukskrivna. 
+Det låter ju... nästan för dåligt för att vara sant? Framförallt låter det för sammanhängande för att vara slump. Anar vi en liten struktur?
