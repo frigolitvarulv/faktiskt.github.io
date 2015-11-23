@@ -5,7 +5,6 @@ title: löner
 ---
 
 
-
 Enligt (SCB) tjänar kvinnor som grupp ungefär 85 procent av vad männen tjänar. Så den som inte har någon snopp får i regel alltså inga stålars för fredagens jobb.
 
 "Men lönerna är väl olika för att män och kvinnor gör olika saker, och för att män är typ chefer!?" Ja, HÄR kan du läsa om att nitton av tjugo chefer fortfarande är män. 
