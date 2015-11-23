@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Men hur blir det med tillväxten då?"
 ---
+
 
 Ja, det är en jättebra fråga. Och därför jätteviktig att diskutera och forska kring. Någon på internet satte fingret på problemet genom att prata om en hamster. Kolla här: [https://www.youtube.com/watch?v=Sqwd_u6HkMo](https://www.youtube.com/watch?v=Sqwd_u6HkMo)
 
