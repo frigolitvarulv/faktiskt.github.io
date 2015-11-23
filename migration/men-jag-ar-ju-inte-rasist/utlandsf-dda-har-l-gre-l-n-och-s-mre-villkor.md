@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Utlandsfödda har lägre lön och sämre villkor
 ---
+
 
 [DN](http://www.dn.se/nyheter/sverige/svarare-for-invandrare-att-fa-jobb/) hänvisar till en TCO-studie som visar att utrikesfödda akademiker har lägre lön - i samtliga OECD-länder - och dessutom ofta är överkvalificerade. I Sverige är löneskillnaden drygt 10 %. (Alltså ungefär en månadslön om året…)
 
