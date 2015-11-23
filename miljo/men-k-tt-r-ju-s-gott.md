@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Men kött är ju så GOTT!"
 ---
+
 
 Nom-nom. Men eftersmaken är inte lika smarrig. Enligt [Världsnaturfonden](http://www.wwf.se/vrt-arbete/klimat/min-vardag/artikelarkiv/1517751-min-vardag-glm-snabba-duschar-spara-vatten-p-riktigt) går det åt 16 000 liter vatten för att producera ETT kilo nötkött. (Och för att producera EN liter mjölk krävs totalt TUSEN liter vatten (enligt [Water Footprint](http://waterfootprint.org/media/downloads/Hoekstra-2008-WaterfootprintFood.pdf)).
 
