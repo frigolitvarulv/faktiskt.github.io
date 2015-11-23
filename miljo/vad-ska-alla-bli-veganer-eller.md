@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Vadå, ska alla bli veganer eller?"
 ---
+
 
 Alla gör ju som de vill. Men för den som vill göra en STOR insats för klimatet följer några inspirerande siffror: 
 
@@ -11,5 +12,3 @@ Enligt [Världsnaturfonden](http://www.wwf.se/vrt-arbete/klimat/min-vardag/artik
 Enligt [Naturvårdsverket](https://www.naturvardsverket.se/Documents/publikationer6400/978-91-620-6653-6.pdf?pid=14404) kommer 75% (!!!) av våra matrelaterade utsläpp från kött- och mejeriproduktion - trots att detta bara utgör 35% av allt vi äter. **(Hannah gör graf på 75% - 35%?).**
 
 Jobbiga siffror... Eller? Det blir ju plötsligt också väldigt enkelt att göra en väldigt stor insats. Forskarna på [Sveriges Lantbruks Universitet](http://www.slu.se/Global/externwebben/nl-fak/vaxtproduktionsekologi/Ekhaga%20Dok/Poster_5_Din_matyta.pdf) har dessutom räknat fram att om alla svenskar åt vegansk kost skulle vi teoretiskt kunna mätta 20-30 miljoner människor. Detta jämfört med dagens cirka 5-9 miljoner. Kan ju vara värt att tänka på i en värld där [842 miljoner människor svälter](http://sv.wfp.org/hunger/frågor-om-hunger) och klimatförändringarna är ett faktum.
-
-
