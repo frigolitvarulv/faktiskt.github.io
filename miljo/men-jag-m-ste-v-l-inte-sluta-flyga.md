@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Men JAG måste väl inte sluta flyga!?"
 ---
+
 
 Vi återkommer till det. Enligt [Naturvårdsverket](http://www.naturvardsverket.se/Miljoarbete-i-samhallet/Miljoarbete-i-Sverige/Uppdelat-efter-omrade/Klimat/Konsumtion/Klimateffektiva-resor/) går det åt cirka 2,2 ton koldioxid för att flyga EN person tur och retur till Thailand.
 
