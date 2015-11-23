@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: löner
+title: Löner
 ---
 
 
