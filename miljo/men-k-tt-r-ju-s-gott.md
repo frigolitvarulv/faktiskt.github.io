@@ -4,6 +4,8 @@ published: false
 title: "Men kött är ju så GOTT!"
 ---
 
-## A New Post
+Nom-nom. Men eftersmaken är inte lika smarrig. I dokumentärfilmen (Cowspiracy) lärde vi oss att det går åt 15 500 liter vatten för att producera ETT kilo nötkött. (Och för att producera EN liter mjölk krävs totalt TUSEN liter vatten). (http://waterfootprint.org/media/downloads/Hoekstra-2008-WaterfootprintFood.pdf
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Med SVTs kalkylator (http://pejl.svt.se/kottkalkylator/) kan man räkna ut hur mycket utsläpp ens köttkonsumtionen motsvarar i bilkörning. Till exempel ger ETT kilo nötfärs upphov till lika mycket utsläpp som15,5 mils bilkörning. Reflektion: Att cykla till affären är alltså ingen garanti för gott miljösamvete; lägger du ett kilo djur i korgen är det alltså lika illa som att du tagit bilen från Stockholm till Norrköping för att handla.
+
+”Ja, usch. Men... vi är väl ändå på väg åt rätt håll? Med all forskning och så?” Tydligen inte. Alls. Enligt [Naturvårdsverket](http://www.naturvardsverket.se/Documents/publikationer6400/978-91-620-6456-3.pdf "Naturvårdsverket - Hållbara konsumtionsmönster") ökade vår köttkonsumtion med 50% mellan 1990 och 2005. Enligt samma källa (?) utgörs 75% av våra matrelaternade CO2-utsläpp av kött- och mejerikonsumtion - trots att dessa delar bara utgör 35% av vår konsumtion. ”A men varå - ska alla bli veganer eller?" Tja, det verkar ju vara rimligt att överväga i alla fall. (HÄR) kan vi läsa lite om vad det skulle få för effekter för miljön.
