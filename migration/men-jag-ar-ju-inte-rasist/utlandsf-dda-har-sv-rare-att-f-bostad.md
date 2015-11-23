@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Utlandsfödda har svårare att få bostad
 ---
 
