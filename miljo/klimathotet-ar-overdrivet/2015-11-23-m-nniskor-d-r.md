@@ -1,7 +1,0 @@
----
-layout: post
-published: false
-title: Människor dör
----
-
-[Världshälsoorganisationen (WHO)](http://www.who.int/mediacentre/factsheets/fs266/en/) beräknar att klimatförändringarna leder till att 250 000 människor dör av undernäring, malaria, diarré och värmestress. Varje år. Mellan 2030 och 2050. Totalt fem miljoner människor. Alltså som att HELA NORGE skulle dö ut på 20 år.
