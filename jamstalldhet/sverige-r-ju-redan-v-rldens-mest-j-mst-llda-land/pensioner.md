@@ -4,7 +4,7 @@ published: false
 title: Pensioner
 ---
 
-SVD (http://www.svd.se/majoriteten-av-kvinnor-riskerar-fattigpension) har undersökt hur pensionerna kommer se ut för den del av befolkningen som jobbat m e s t och är födda år 1954. Enligt undersökningen riskerar VARANNAN KVINNA i årskullen 1954 att bli "fattigpensionär" och kvalificeras för garantipension. Ett överslag(ASTERIX) visar att det här drabbar tre gånger så många kvinnor som män.
+[SVD](http://www.svd.se/majoriteten-av-kvinnor-riskerar-fattigpension "Majoriteten av kvinnor riskerar fattigpension") har undersökt hur pensionerna kommer se ut för den del av befolkningen som jobbat m e s t och är födda år 1954. Enligt undersökningen riskerar VARANNAN KVINNA i årskullen 1954 att bli "fattigpensionär" och kvalificeras för garantipension. Ett överslag(ASTERIX) visar att det här drabbar tre gånger så många kvinnor som män.
 
 Artikel menar dessutom att "en granskning av efterföljande årskullar hade med all sannolikhet gett liknande resultat. Dessa generellt låga nivåer kommer alltså bestå liksom skillnaderna mellan män och kvinnor."
 
