@@ -4,6 +4,4 @@ published: false
 title: "Jo, men de betalar väl för sina platser där de tigger?"
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Nästan alla tiggare i de tre städerna svarade ”nej” på den frågan. Mindre än 3% av de rumänska tiggarna i Sverige svarade ”ja” på frågan. 
