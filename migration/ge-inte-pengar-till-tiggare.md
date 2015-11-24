@@ -1,8 +1,9 @@
 ---
-layout: post
-published: false
+layout: postindex
+published: true
 title: "\"Ge inte pengar till tiggare, du stödjer organiserad brottslighet\" "
 ---
+
 
 
 Menar du att pengarna inte går till de som tigger? <br><br>
