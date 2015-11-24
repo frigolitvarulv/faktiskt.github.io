@@ -4,6 +4,4 @@ published: false
 title: "\"Men... de LURAS väl hit ändå? Av jättekriminella nätverk!\""
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Nej, det verkar faktiskt inte så. På frågan ’On your trips to Norway/Sweden/Denmark, have you ever been fooled, lied to or manipulated by people helping you or organising your journey, or by others?’ Svarar över 90% svarar nej. ca 7% har svarat ja på frågan. De flesta sa att de kom hit för att de hört om det från familj eller bekanta som hade varit i Skadinavien tidigare.
