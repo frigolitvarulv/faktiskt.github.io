@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Islamistisk terror är ett stort hot mot västvärlden
 ---
+
 
 Ja, alltså… Framförallt verkar terrorism vara ett stort hot mot världen.
 <br><br>
