@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="home">
+<!--div class="home">
   <h1>Faktiskt</h1>
   <p>Hej och välkommen!</p>
   <p>Här hittar du fakta för att bemöta felaktiga föreställningar om:</p>
@@ -13,4 +13,29 @@ layout: default
     <li><a href="{{ "/ekonomi" | prepend: site.baseurl }}">Ekonomi</a></li>
   </ul>
   </div>
-</div>
+</div-->
+
+<div class="row">
+    <div class="col-xs-12 text-center main-block">
+      <h1 >Faktiskt.</h1>
+      <p>Hej och välkommen!<br> Här hittar du fakta för att bemöta felaktiga föreställningar om:</p>
+    </div>
+  </div>
+  
+  <div class="row btn-row">
+
+    <div class="col-xs-6 col-sm-3 col-sm-offset-3 text-center main-btn">
+
+      <a class="btn btn-custom btn-big btn-block" href="{{ "/jamstalldhet" | prepend: site.baseurl }}">Jämställdhet</a>
+
+    </div>
+    
+    <div class="col-xs-6 col-sm-3 text-center main-btn">
+      <a class="btn btn-custom btn-big btn-block" href="{{ "/ekonomi" | prepend: site.baseurl }}">Ekonomi</a>
+    </div>
+  </div><!--row-->
+
+  <div class="row btn-row">
+    <div class="col-xs-6 col-sm-3 col-sm-offset-3 text-center main-btn"><a class="btn btn-custom btn-big btn-block" href="{{ "/migration" | prepend: site.baseurl }}">Migration</a></div>
+    <div class="col-xs-6 col-sm-3 text-center main-btn"><a class="btn btn-custom btn-big btn-block" href="{{ "/miljo" | prepend: site.baseurl }}">Miljö</a></div>
+  </div>

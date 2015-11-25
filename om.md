@@ -4,4 +4,4 @@ title: Om
 permalink: /om/
 ---
 
-Här borde vi skriva någonting om Faktiskt.
+Här kommer vi skriva någonting om Faktiskt.

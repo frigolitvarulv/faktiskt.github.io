@@ -5,7 +5,9 @@
 		{% if page.url != "/" %}
 		<div class="site-bar">
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+
     </div>
+
     {% endif %}
 
     <nav class="site-nav">
@@ -21,8 +23,17 @@
         </svg>
       </a>
       <div class="trigger">
-          <a class="page-link" href="{{ "/om" | prepend: site.baseurl }}">Om</a>
-          <a class="page-link" href="{{ "/kontakt" | prepend: site.baseurl }}">Kontakt</a>
+
+        {% if page.url != "/" %}
+          <a class="page-link" href="{{ "/jamstalldhet" | prepend: site.baseurl }}">Jämställdhet</a>
+          <a class="page-link" href="{{ "/ekonomi" | prepend: site.baseurl }}">Ekonomi</a>
+          <a class="page-link" href="{{ "/migration" | prepend: site.baseurl }}">Migration</a>
+          <a class="page-link" href="{{ "/miljo" | prepend: site.baseurl }}">Miljö</a>
+        {% endif %}
+
+          <a class="page-link nav-link" href="{{ "/om" | prepend: site.baseurl }}">Om</a>
+          <a class="page-link nav-link" href="{{ "/kontakt" | prepend: site.baseurl }}">Kontakt</a>
+
       </div>
     </nav>
 

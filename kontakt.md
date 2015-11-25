@@ -4,4 +4,4 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-Kontaktformulär.
+Kontaktformulär tillkommer snart.

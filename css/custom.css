@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond|Didact+Gothic);
+body {
+	font-family: "Didact Gothic", sans-serif;
+	background-color: #fbfbfb;
+}
+h1 {
+	font-family: "EB Garamond", serif;
+	font-size: 55px;
+	font-weight: 500;
+	margin-bottom: 15px;
+	text-shadow: 1px 2px 1px #afafaf;
+	color: #323232;
+}
+a:focus, a:hover {
+	text-decoration: none;
+}
+.post-header h1 {
+	margin-left: 15px;
+}
+.site-header {
+	border-bottom: 1px solid lightgray;
+	border-top: none;
+	background: linear-gradient(#fbfbfb, #f7f7f7); 
+	/*alt. background-color: #fbfbfb;*/
+}
+.main-block {
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.main-block p {
+	font-size: 22px;
+	font-family: "Didact Gothic", sans-serif;
+}
+.btn-custom {
+	border: 1px solid #e0e0e0;
+	/*background-color: #fafafa;*/
+	background: linear-gradient(#fbfbfb, #f7f7f7);
+	font-size: 18px;
+}
+.btn-custom:hover {
+	background: #323232;
+	/*background-color: 777777;*/
+	color: white;
+}
+.btn-big {
+	font-family: "Garamond", serif;
+	font-size: 25px;
+}
+@media all and (max-width: 500px) {
+	.btn-big {
+		font-size: 20px;
+	}
+}
+.main-btn {
+	padding: 0;
+}
+.main-btn a {
+	vertical-align: middle;
+	text-decoration: none;
+	color: #323232;
+	width: 100%;
+}
+.nav-link {
+	font-weight: 600;
+}
+.site-title, .site-title:hover {
+	font-style: normal;
+	text-shadow: 0.5px 1px 0.5px #afafaf;
+	font-family: "EB Garamond";
+	font-size: 28px;
+	letter-spacing: 0;
+}
+.index li a {
+	font-style: normal;
+}
