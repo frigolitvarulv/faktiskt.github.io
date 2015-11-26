@@ -9,6 +9,9 @@ h1 {
 	margin-bottom: 15px;
 	color: #323232;
 }
+a {
+	color: tomato;
+}
 #main-header {
 	letter-spacing: -1px;
 }
@@ -33,9 +36,8 @@ a:focus, a:hover {
 	}
 }
 .site-header {
-	border-bottom: 1px solid lightgray;
-	border-top: none;
-	background: linear-gradient(#fbfbfb, #f7f7f7); 
+	border: none;
+	background: #fbfbfb;
 }
 .main-block {
 	margin-top: 30px;
@@ -49,12 +51,16 @@ a:focus, a:hover {
 }
 .btn-custom {
 	border: 1px solid #e0e0e0;
-	background: linear-gradient(#fbfbfb, #f7f7f7);
+
+	background: #323232;
+
 	font-size: 18px;
 }
 .btn-custom:hover {
-	background: #323232;
-	color: white;
+
+	background: linear-gradient(#fbfbfb, #f7f7f7);
+	color: #323232;
+	
 }
 .btn-big {
 	font-family: "Times New Roman", serif;
@@ -72,7 +78,9 @@ a:focus, a:hover {
 .main-btn a {
 	vertical-align: middle;
 	text-decoration: none;
-	color: #323232;
+
+	color: #f0f0f0;
+
 	width: 100%;
 }
 .nav-link {
