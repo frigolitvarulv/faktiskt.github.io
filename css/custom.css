@@ -12,25 +12,25 @@ h1 {
 #main-header {
 	letter-spacing: -1px;
 }
-.welcome-text {
-	line-height: 27px;
-	letter-spacing: -0.5px;
-}
 a:focus, a:hover {
 	text-decoration: none;
 }
-.post-header h1{
+.post-header h1 {
 	letter-spacing: 0;
-	text-align: center;
 }
-
 .site-bar .site-title {
 	margin: 0 auto;
 	padding-left: 15px;
 }
-
-.site-nav {
-	position: relative;
+@media all and (max-width: 600px) {
+	.site-nav {
+		position: relative;
+		top: 9.5px;
+		padding: 0;
+	}
+	.site-nav .menu-icon {
+		float: right;
+	}
 }
 .site-header {
 	border-bottom: 1px solid lightgray;
@@ -39,11 +39,13 @@ a:focus, a:hover {
 }
 .main-block {
 	margin-top: 30px;
-	margin-bottom: 50px;
+	margin-bottom: 70px;
 }
 .main-block p {
 	font-size: 22px;
 	font-family: "Times New Roman", serif;
+	line-height: 30px;
+	letter-spacing: -0.5px;
 }
 .btn-custom {
 	border: 1px solid #e0e0e0;
