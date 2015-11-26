@@ -9,16 +9,28 @@ h1 {
 	margin-bottom: 15px;
 	color: #323232;
 }
+#main-header {
+	letter-spacing: -1px;
+}
+.welcome-text {
+	line-height: 27px;
+	letter-spacing: -0.5px;
+}
 a:focus, a:hover {
 	text-decoration: none;
 }
-@media all and (min-width: 600px) {
-	.post-header h1 {
-		margin-left: 15px;
-	}
-	.post-content {
-		margin-left: 15px;
-	}
+.post-header h1{
+	letter-spacing: 0;
+	text-align: center;
+}
+
+.site-bar .site-title {
+	margin: 0 auto;
+	padding-left: 15px;
+}
+
+.site-nav {
+	position: relative;
 }
 .site-header {
 	border-bottom: 1px solid lightgray;
@@ -45,6 +57,7 @@ a:focus, a:hover {
 .btn-big {
 	font-family: "Times New Roman", serif;
 	font-size: 25px;
+	font-style: italic;
 }
 @media all and (max-width: 500px) {
 	.btn-big {
