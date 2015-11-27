@@ -5,3 +5,4 @@ permalink: /kontakt/
 ---
 
 Kontaktformulär tillkommer snart.
+
