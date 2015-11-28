@@ -6,7 +6,8 @@ title: "Kvotering: \"Den som är mest kompetent ska väl få jobbet!?\""
 
 
 
-Det låter väl ganska rimligt? Det verkar dock inte funkar så. 
+
+## Det låter väl ganska rimligt? Det verkar dock inte funkar så.
 ## Alls. 
 
 Enligt (SCB-betyg) har kvinnor högre betyg i både grundskolan och gymnasiet - och - 63% av de som examineras från högskolan är kvinnor. Trots det här är bara 5% av alla VD:ar kvinnor. Och (siffra på % kvinnliga styrelseledamöter) OM - vi gick på kompetens borde väl både siffran 5 och 25 vara någonstans runt... 63%? PS. Verkar det inte som att männen är de som kvoteras in? DS.
