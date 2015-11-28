@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Fast i Sverige är vi ju rätt miljövänliga
+title: "\"Fast i Sverige är vi ju rätt miljövänliga\""
 published: true
 ---
+
 
 Ja, det kan ju kännas så - med EKO-mjölk och och batteriinsamlingar och allt vad det är. Men enligt (WWF) förbrukar vi svenskar tionde MEST resurser per person, i hela världen. Om alla på jorden skulle förbruka lika mycket resurser som vi svenskar gör skulle det behövas 3,7 jordklot för att tillgodose behoven. Så vi är alltså... tionde... sämst. På att vara just miljövänliga.
 
