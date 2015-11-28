@@ -1,8 +1,9 @@
 ---
 layout: post
 published: true
-title: "Det där löser väl forskarna?!"
+title: "\"Det där löser väl forskarna?!\""
 ---
+
 
 
 Mnja... "Forskarna" verkar själva ha ”forskat” fram att det knappast går att "forska" sig ur krisen. Enligt Naturvårdsverkets rapport "[Hållbara Konsumtionsmönster](https://www.naturvardsverket.se/Documents/publikationer6400/978-91-620-6653-6.pdf?pid=14404)" ser det kortfattat ut så här: 
