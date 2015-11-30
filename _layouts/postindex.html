@@ -13,7 +13,7 @@ layout: post
   {% capture search_prefix %}:{{url_prefix}}{% endcapture %}
 
   <ul class="pages">
-  {% for subpage in site.pages %}
+  {% for subpage in site.pages | sort: 'sort' %}
     {% capture subpage_depth %}{{ subpage.url | split: '/' | size }}{% endcapture %}
     {% capture subpage_key %}:{{ subpage.url }}{% endcapture %}
     {% if subpage_key contains search_prefix and subpage.url != page.url and search_depth == subpage_depth %}

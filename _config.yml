@@ -37,6 +37,11 @@ prose:
           element: "text"
           label: "Titel"
           value: ""
+      - name: "sort"
+        field:
+          element: "text"
+          label: "Sortering"
+          value: ""
     jamstalldhet:
       - name: "layout"
         field:
@@ -52,6 +57,11 @@ prose:
         field:
           element: "text"
           label: "Titel"
+          value: ""
+      - name: "sort"
+        field:
+          element: "text"
+          label: "Sortering"
           value: ""
     migration:
       - name: "layout"
@@ -69,6 +79,11 @@ prose:
           element: "text"
           label: "Titel"
           value: ""
+      - name: "sort"
+        field:
+          element: "text"
+          label: "Sortering"
+          value: ""
     miljo:
       - name: "layout"
         field:
@@ -84,4 +99,9 @@ prose:
         field:
           element: "text"
           label: "Titel"
+          value: ""
+      - name: "sort"
+        field:
+          element: "text"
+          label: "Sortering"
           value: ""
