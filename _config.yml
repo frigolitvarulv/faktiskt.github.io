@@ -39,7 +39,7 @@ prose:
           value: ""
       - name: "sort"
         field:
-          element: "text"
+          element: "number"
           label: "Sortering"
           value: ""
     jamstalldhet:
@@ -60,7 +60,7 @@ prose:
           value: ""
       - name: "sort"
         field:
-          element: "text"
+          element: "number"
           label: "Sortering"
           value: ""
     migration:
@@ -81,7 +81,7 @@ prose:
           value: ""
       - name: "sort"
         field:
-          element: "text"
+          element: "number"
           label: "Sortering"
           value: ""
     miljo:
@@ -102,6 +102,6 @@ prose:
           value: ""
       - name: "sort"
         field:
-          element: "text"
+          element: "number"
           label: "Sortering"
           value: ""
