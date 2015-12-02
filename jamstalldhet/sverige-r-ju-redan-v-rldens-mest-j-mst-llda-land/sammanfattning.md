@@ -2,7 +2,9 @@
 layout: post
 published: true
 title: Sammanfattning
+sort: 7
 ---
+
 
 
 Kvinnor har alltså lägre löner och lägre pensioner, de når väldigt sällan höga positioner i näringslivet, utsätts i väldigt mycket större utsträckning för sexuellt våld och de löper alltså dubbelt så hög risk för att bli sjukskrivna. 
