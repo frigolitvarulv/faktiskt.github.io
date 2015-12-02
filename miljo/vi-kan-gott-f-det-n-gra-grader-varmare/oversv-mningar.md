@@ -2,7 +2,9 @@
 layout: post
 published: true
 title: Översvämningar
+sort: 3
 ---
+
 
 
 Av totalt 236 inventerade samhällsviktiga objekt inom översvämningshotade områden bedöms konsekvenserna i 180 av fallen kunna bli allvarliga, mycket allvarliga eller till och med katastrofala för objekten. 22 av dessa objekt tillhandahåller service som når ut till mycket stora delar av befolkningen inom de kommuner som de befinner sig i. Det handlar bland annat om leverans av el, dricksvatten, avloppsrening eller fjärrvärme.
