@@ -2,8 +2,9 @@
 layout: post
 published: true
 title: Jäm(o)likheter i vården
-sort: 4
+sort: 5
 ---
+
 
 
 
