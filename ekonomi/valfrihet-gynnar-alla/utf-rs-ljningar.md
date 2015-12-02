@@ -2,7 +2,9 @@
 layout: post
 published: true
 title: Utförsäljningar
+sort: 3
 ---
+
 
 
 Det finns såklart både feelgood- och tragediexempel inom det här området. Men här följer några tragedier som kan vara bra att ha i bakhuvudet.<br><br>
