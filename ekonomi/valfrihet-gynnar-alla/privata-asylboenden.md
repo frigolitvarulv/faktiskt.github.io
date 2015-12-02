@@ -2,7 +2,9 @@
 layout: post
 published: true
 title: Privata asylboenden
+sort: 4
 ---
+
 
 
 SvD hade för ett tag sedan (28/9 2015) kioskvältarrubriken: "[Riskkapitalbolag tjänar miljoner på flyktingbarn](http://www.svd.se/flyktingbarn-lukrativ-marknad/om/den-lonsamma-asylmarknaden)" <br><br> "Attendos dotterbolag Attendo Individ och Familj utgörs till en växande del av ensamkommande flyktingbarn. Bolaget har ett rörelseresultat på 67 miljoner kronor. Avkastningen på totala tillgångar är hela 24 procent under 2014, visar SvD Näringslivs beräkningar. – Det är extremt lönsamt, säger den oberoende finansanalytikern Peter Malmqvist. Avkastningen är mer än tre gånger så hög som snittet för ett svenskt börsbolag, enligt Peter Malmqvist. Snittet för börsens bolag är 7 procent, mätt i avkastning på totala tillgångar."
