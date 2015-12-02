@@ -2,7 +2,9 @@
 layout: post
 published: true
 title: Stormar kostar
+sort: 2
 ---
+
 
 
 Enligt [Världsbanken](http://www.worldbank.org/content/dam/Worldbank/Feature%20Story/SDN/Climate/climate-risks-infographic-1020x4872.jpg) bör vi räkna med en ökning av allvarliga stormar på 40% om temperaturen ökar med 2 grader. Och en ökning på 80% om temperaturen ökar med 4 grader.
