@@ -2,7 +2,9 @@
 layout: post
 published: true
 title: Isar smälter
+sort: 4
 ---
+
 
 
 Enligt [NASA](http://earthobservatory.nasa.gov/IOTD/view.php?id=82094) har Arktis förlorat ungefär 12 procent av sin havsis per årtidonde sedan 1970.
