@@ -2,7 +2,9 @@
 layout: post
 published: true
 title: Löner
+sort: 1
 ---
+
 
 
 Enligt (SCB) tjänar kvinnor som grupp ungefär 85 procent av vad männen tjänar. Så den som inte har någon snopp får i regel alltså inga stålars för fredagens jobb.
