@@ -2,10 +2,12 @@
 layout: post
 published: true
 title: Islamistisk terror är ett stort hot mot västvärlden
+sort: 0
 ---
 
 
-Ja, alltså… Framförallt verkar terrorism vara ett stort hot mot världen.
+
+Ja, alltså… Framförallt verkar terrorism vara ett stort hot **mot världen.**
 <br><br>
 Under 2013 ökade antalet dödsoffer i terroristattacker från 11133 under 2012 till 17958 - en ökning på 61%. Men det här med västvärlden... Vi kollar vidare:  82% av de terrorelaterade dödsfallen inträffade i fem länder: Irak, Afganistan, Pakistan, Nigeria och Syrien. (http://www.visionofhumanity.org/sites/default/files/Global%20Terrorism%20Index%20Report%202014_0.pdf)
 <br>
