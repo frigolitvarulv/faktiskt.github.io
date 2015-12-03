@@ -1,8 +1,10 @@
 ---
 layout: postindex
-title: "Men JAG är ju inte rasist\""
+title: "\"Men JAG är ju inte rasist\""
 published: true
+sort: 0
 ---
+
 
 
 En hedersvärd ansats! Men - oavsett hur både du och jag (känner att vi) beter oss så verkar rasism vara ett stort problem. <br><br>Exempelvis så här:
