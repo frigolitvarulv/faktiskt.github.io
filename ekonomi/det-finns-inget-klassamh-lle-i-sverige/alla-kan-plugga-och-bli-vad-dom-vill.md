@@ -11,7 +11,7 @@ sort: 1
 
 **På pappret - JA! (Nice!)**
 
-Men - praktiken är ju som alltid mer intressant. Enligt [SCB](http://www.scb.se/sv_/Hitta-statistik/Artiklar/Barn-till-lagutbildade-hamnar-efter-i-skolan/) nådde **44 procent** av barnen till föräldrar med högst förgymnasial utbildning grundskolans mål. 
+Men - praktiken är ju som alltid mer intressant. Enligt [SCB](http://www.scb.se/sv_/Hitta-statistik/Artiklar/Barn-till-lagutbildade-hamnar-efter-i-skolan/) nådde **44 procent** av barnen till föräldrar med **högst förgymnasial utbildning** grundskolans mål. 
 
 För **barn till HÖGUTBILDADE** föräldrar var samma siffra **87 procent**. 
 
