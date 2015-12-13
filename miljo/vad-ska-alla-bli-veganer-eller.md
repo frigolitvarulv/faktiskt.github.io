@@ -5,9 +5,10 @@ title: "Vadå, ska alla bli veganer eller?"
 ---
 
 
+
 Alla gör ju som de vill. Men för den som vill göra en STOR insats för klimatet följer några inspirerande siffror: 
 
-Enligt [Världsnaturfonden](http://www.wwf.se/vrt-arbete/klimat/min-vardag/artikelarkiv/1517751-min-vardag-glm-snabba-duschar-spara-vatten-p-riktigt) går det åt 16 000 liter vatten för att producera ETT kilo nötkött (Man kan alltså BESPARA världen 15 500 liter vatten genom att laga vegetarisk köttfärssås två veckor i rad). Och för att få EN liter mjölk på köksbordet går det åt TUSEN liten vatten (enl [Water Footprint](http://waterfootprint.org/media/downloads/Hoekstra-2008-WaterfootprintFood.pdf)).
+Enligt [Världsnaturfonden](http://www.wwf.se/vrt-arbete/klimat/min-vardag/artikelarkiv/1517751-min-vardag-glm-snabba-duschar-spara-vatten-p-riktigt) går det åt 16 000 liter vatten för att producera ETT kilo nötkött (Man kan alltså BESPARA världen 16 000 liter vatten genom att göra storkok på grösaker istället för ett kilo köttfärs). Och för att få EN liter mjölk på köksbordet går det åt TUSEN liten vatten (enl [Water Footprint](http://waterfootprint.org/media/downloads/Hoekstra-2008-WaterfootprintFood.pdf)).
 
 Enligt [Naturvårdsverket](https://www.naturvardsverket.se/Documents/publikationer6400/978-91-620-6653-6.pdf?pid=14404) kommer 75% (!!!) av våra matrelaterade utsläpp från kött- och mejeriproduktion - trots att detta bara utgör 35% av allt vi äter. **(Hannah gör graf på 75% - 35%?).**
 
