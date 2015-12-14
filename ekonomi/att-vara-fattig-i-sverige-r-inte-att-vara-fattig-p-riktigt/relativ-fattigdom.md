@@ -1,7 +1,7 @@
 ---
 layout: post
 sort: 2
-published: false
+published: true
 title: Relativ fattigdom
 ---
 
