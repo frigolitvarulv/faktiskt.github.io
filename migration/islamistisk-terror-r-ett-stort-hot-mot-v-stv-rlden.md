@@ -9,14 +9,14 @@ sort: 0
 
 
 
-Ja, alltså… Framförallt verkar terrorism vara ett stort hot **mot världen.**
-<br><br>
-Under 2013 ökade antalet dödsoffer i terroristattacker från 11133 under 2012 till 17958 - en ökning på 61%. Men det här med västvärlden... Vi kollar vidare:  82% av de terrorelaterade dödsfallen inträffade i fem länder: Irak, Afganistan, Pakistan, Nigeria och Syrien. (Enligt Institute for Economics and Peace rapport "[Global Terrorism Index](http://www.visionofhumanity.org/sites/default/files/Global%20Terrorism%20Index%20Report%202014_0.pdf)")
-<br>
-DEN HÄR BEHÖVE ÄNDRAS: Men NU! Enligt [Europol](https://www.europol.europa.eu/content/european-union-terrorism-situation-and-trend-report-2015) dog FYRA personer i terroristattentat inom EU under 2014. FYLLT PÅ MED HEBDO OCH PARIS.
-<br><br>
-För den som ändå KÄNNER att det KÄNNS som ett hot, finns en del annat att KÄNNA hot inför:
-<br><br>
-I februari 2015 skrev [Washington Times](http://www.washingtontimes.com/news/2015/feb/21/dhs-intelligence-report-warns-of-domestic-right-wi/)  om en rapport från USAs Homeland Security som slog fast att hotbilden från högerextremistiska grupper är lika stor - eller större - än hotet från islamistiska grupper. KAN ju vara bra att ha i huvudet.
-<br><br>
-NÅGOT OM BRINNANDE ASYLBOENDEN???
+
+Ja! Död är inget att skoja om. Terrorism ännu mindre.
+
+Under 2013 ökade antalet dödsoffer i terroristattacker **med 61%**, från 11133 till 17958.
+
+Det som är värt att också ha i huvudet är att 82% av de terrorelaterade dödsfallen inträffade i fem länder: Irak, Afganistan, Pakistan, Nigeria och Syrien. (Enligt Institute for Economics and Peace rapport "[Global Terrorism Index](http://www.visionofhumanity.org/sites/default/files/Global%20Terrorism%20Index%20Report%202014_0.pdf)")
+
+Och att [Washington Times](http://www.washingtontimes.com/news/2015/feb/21/dhs-intelligence-report-warns-of-domestic-right-wi/) i februari 2015 skrev om en rapport från USAs Homeland Security som slog fast att hotbilden från högerextremistiska grupper är lika stor - eller större - än hotet från islamistiska grupper. KAN ju vara bra att ha i huvudet.
+
+Samtidigt så finns 
+http://www.svd.se/17-brander-i-asylboenden--noll-misstankta
