@@ -2,8 +2,9 @@
 layout: post
 published: true
 title: Utbildning
-sort: 1
+sort: 4
 ---
+
 
 
 Av alla romska barn i Rumänien går cirka 22% (_vart femte_) barn i skolan. I Bulgarien är motsvarande siffra 15 procent, i Grekland 35 procent.
