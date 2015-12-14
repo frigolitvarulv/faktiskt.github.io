@@ -1,6 +1,6 @@
 ---
 layout: post
-sort: 0
+sort: 2
 published: false
 title: Fattigdom
 ---
