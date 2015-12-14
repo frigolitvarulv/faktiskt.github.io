@@ -5,6 +5,4 @@ published: false
 title: Livslängd
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Enligt [ERRC](http://www.errc.org/cms/upload/file/hidden-health-crisis-31-october-2013.pdf) (European Roma Rights Center) lever romer i Rumänien i snitt **16 år kortare** än icke-romer. 16 år... De drabbas dessutom i större utsträckning av allvarliga sjukdomar och deras tillgång till vård och förmåga att betala för medicin är lägre jämfört med Rumäniens övriga befolkning.
