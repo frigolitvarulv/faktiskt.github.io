@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: postindex
 published: true
 title: "\"Att vara fattig i Sverige är inte att vara fattig på riktigt\""
 sort: 0
 ---
+
 
 
 
