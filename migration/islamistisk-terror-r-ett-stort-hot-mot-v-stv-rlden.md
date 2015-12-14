@@ -19,6 +19,8 @@ Det som är värt att också ha i huvudet är att 82% av de terrorelaterade död
 
 Och att [Washington Times](http://www.washingtontimes.com/news/2015/feb/21/dhs-intelligence-report-warns-of-domestic-right-wi/) i februari 2015 skrev om en rapport från USAs Homeland Security som slog fast att hotbilden från högerextremistiska grupper är lika stor - eller större - än hotet från islamistiska grupper. KAN ju vara bra att ha i huvudet.
 
-Och samtidigt i Sverige 2015 brinner 8 asylboenden och tilltänkta asylboenden ner där polisen misstänker mordbrand (enligt: SR  http://sverigesradio.se/sida/artikel.aspx?programid=125&artikel=6282511finns  
+Och samtidigt rapporterar Svd att 17 asylboenden har brunnit i Sverige 2015, som visseligen inte rubriceras som terrorism. Men som ändå är en del bränder för många. http://www.svd.se/17-brander-i-asylboenden--noll-misstankta
+
+i Sverige 2015 brinner 8 asylboenden och tilltänkta asylboenden ner där polisen misstänker mordbrand (enligt: SR  http://sverigesradio.se/sida/artikel.aspx?programid=125&artikel=6282511finns  
 
 http://www.svd.se/17-brander-i-asylboenden--noll-misstankta
